@@ -1,9 +1,9 @@
-import { BsCart3 } from "react-icons/bs";
+import { BsCart } from "react-icons/bs";
  
 const CardWidget = () =>{
     return(
         <div>
-            <img src={BsCart3}/>
+            <BsCart/>
             0
         </div>
     )
